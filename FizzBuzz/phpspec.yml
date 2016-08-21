@@ -1,0 +1,5 @@
+suites:
+  core:
+    namespace: FizzBuzz
+    psr4_prefix: FizzBuzz
+    src_path: src/FizzBuzz
